@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/wallabyjs/dotenv-quokka-plugin#readme",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv-flow": "^3.2.0",
+    "findup-sync": "^5.0.0"
   }
 }
